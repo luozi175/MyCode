@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "大富翁实验项目", "大富翁实验项目\大富翁实验项目.vcxproj", "{72C5EAC4-AFB5-4DAB-BF36-87E89D47E98D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "大富翁", "大富翁\大富翁.vdproj", "{5A51E22A-B51D-4DE4-B672-36039C70BD3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C5EAC4-AFB5-4DAB-BF36-87E89D47E98D}.Debug|x64.ActiveCfg = Debug|x64
+		{72C5EAC4-AFB5-4DAB-BF36-87E89D47E98D}.Debug|x64.Build.0 = Debug|x64
+		{72C5EAC4-AFB5-4DAB-BF36-87E89D47E98D}.Debug|x86.ActiveCfg = Debug|Win32
+		{72C5EAC4-AFB5-4DAB-BF36-87E89D47E98D}.Debug|x86.Build.0 = Debug|Win32
+		{72C5EAC4-AFB5-4DAB-BF36-87E89D47E98D}.Release|x64.ActiveCfg = Release|x64
+		{72C5EAC4-AFB5-4DAB-BF36-87E89D47E98D}.Release|x64.Build.0 = Release|x64
+		{72C5EAC4-AFB5-4DAB-BF36-87E89D47E98D}.Release|x86.ActiveCfg = Release|Win32
+		{72C5EAC4-AFB5-4DAB-BF36-87E89D47E98D}.Release|x86.Build.0 = Release|Win32
+		{5A51E22A-B51D-4DE4-B672-36039C70BD3A}.Debug|x64.ActiveCfg = Debug
+		{5A51E22A-B51D-4DE4-B672-36039C70BD3A}.Debug|x86.ActiveCfg = Debug
+		{5A51E22A-B51D-4DE4-B672-36039C70BD3A}.Release|x64.ActiveCfg = Release
+		{5A51E22A-B51D-4DE4-B672-36039C70BD3A}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB7FA6CF-73F9-4513-A174-70A74814298D}
+	EndGlobalSection
+EndGlobal
