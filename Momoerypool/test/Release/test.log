@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\cfile2019\test\test\main.cpp(47,48): warning C4018: “>”: 有符号/无符号不匹配
+  正在生成代码
+  3 of 7 functions (42.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  test.vcxproj -> D:\cfile2019\test\Release\test.exe

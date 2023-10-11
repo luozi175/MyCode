@@ -1,0 +1,8 @@
+﻿  Memorypool.cpp
+D:\cfile2019\memorypool_dmsxl\memorypool_dmsxl\Memorypool.cpp(124,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\cfile2019\memorypool_dmsxl\memorypool_dmsxl\Memorypool.cpp(134,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  memorypool_dmsxl.cpp
+D:\cfile2019\memorypool_dmsxl\memorypool_dmsxl\memorypool_dmsxl.cpp(30,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\cfile2019\memorypool_dmsxl\memorypool_dmsxl\memorypool_dmsxl.cpp(30,9): message : 请考虑在格式字符串中使用“%zd”
+  正在生成代码...
+  memorypool_dmsxl.vcxproj -> D:\cfile2019\memorypool_dmsxl\x64\Debug\memorypool_dmsxl.exe

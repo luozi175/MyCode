@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\cfile2019\Momoerypool\test\main.cpp(29,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\cfile2019\Momoerypool\test\main.cpp(30,50): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  test.vcxproj -> D:\cfile2019\Momoerypool\x64\Debug\memory_pool_test.exe
